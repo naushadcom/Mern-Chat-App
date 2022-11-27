@@ -18,7 +18,7 @@ https://naushad-mern-chat-app.herokuapp.com/
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
+  git clone https://github.com/naushadcom/Mern-Chat-App.git
 ```
 
 Go to the project directory
